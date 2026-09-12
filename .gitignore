@@ -1,0 +1,17 @@
+# OpenDesign internals
+.od-skills/
+.open-design/
+*.artifact.json
+
+# Images & assets (keep in project, don't push)
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.zip
+
+# Exception: character illustration needed for the app
+!curious-open-eyes.png
+
+# OS files
+.DS_Store
